@@ -72945,7 +72945,7 @@ q.Q.sm(0,!1)
 return A.a_(null,r)}})
 return A.a0($async$vb,r)},
 nC(){var s,r,q,p,o,n,m,l,k=this,j=A.LG()
-if(j.ghM(j)!=="futchemistry.com")return
+if(j.ghM(j)!=="app.futchemistry.com")return
 j=k.x
 s=t.Ep
 j.sm(0,A.a([],s))
