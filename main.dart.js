@@ -9832,9 +9832,11 @@ _.c=0},
 ayP(){return new A.wU(new A.a1B(),A.z(t.K,t.Qu))},
 Lp:function Lp(a,b){this.a=a
 this.b=b},
-xE:function xE(a,b,c){this.f=a
-this.ch=b
-this.a=c},
+xE:function xE(a,b,c,d){var _=this
+_.f=a
+_.ch=b
+_.CW=c
+_.a=d},
 a1B:function a1B(){},
 a1E:function a1E(){},
 BD:function BD(a){var _=this
@@ -41736,11 +41738,11 @@ n=A.aA(102,m.gm(m)>>>16&255,m.gm(m)>>>8&255,m.gm(m)&255)}l=s.a
 if(l==null)l=o.ay.b
 k.a.toString
 return new A.zi(A.akR(new A.v9(o,new A.fI(new A.aeF(k,b),j),B.a1,B.w,j,j),l,n),j)},
-Vz(a){var s,r=this,q=null,p=r.a
-p=p.f
+Vz(a){var s,r=this,q=null,p=r.a,o=p.f
+p=p.CW
 s=r.ga0o()
 r.a.toString
-return new A.As(q,q,q,new A.aeE(),q,q,q,q,q,q,p,q,q,B.Fk,r.ga0t(),"",q,B.LO,B.dN,q,s,q,q,B.o3,!1,!1,!1,!1,r.ga01(),!0,q,q,q,!1,new A.lR(r,t.bT))},
+return new A.As(q,q,q,new A.aeE(),q,q,q,q,q,q,o,q,q,B.Fk,r.ga0t(),p,q,B.LO,B.dN,q,s,q,q,B.o3,!1,!1,!1,!1,r.ga01(),!0,q,q,q,!1,new A.lR(r,t.bT))},
 M(a){var s,r=null,q=A.wK(!1,!1,this.Vz(a),r,r,r,r,!0,r,r,new A.aeG(),r,r)
 this.a.toString
 s=this.d
@@ -71570,7 +71572,7 @@ A.VL.prototype={
 $3(a,b,c){return c},
 $S:416}
 A.I7.prototype={
-M(a){return new A.xE(A.aB(["/",new A.a2u()],t.N,t.Ab),new A.a2v(),null)}}
+M(a){return new A.xE(A.aB(["/",new A.a2u()],t.N,t.Ab),new A.a2v(),"Fut Chemistry Web App",null)}}
 A.a2v.prototype={
 $2(a,b){var s=null
 return new A.z8(b,B.Fq,s,s,480,1200,s,!0,1,!1,s,s,s,s,s,A.bM(s,s,B.l,B.hj,s,s,s,s,s,s,s,s,s),s,s,!1,B.ek,!1,s)},
@@ -72811,7 +72813,7 @@ return A.a0($async$jB,r)},
 vn(){var s=0,r=A.a1(t.ne),q,p,o,n
 var $async$vn=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:s=3
-return A.Y(A.aEY(A.tz("http://cdn.jsdelivr.net/gh/futfc/fut_card@latest/config.json")),$async$vn)
+return A.Y(A.aEY(A.tz("https://cdn.jsdelivr.net/gh/futfc/fut_card@latest/config.json")),$async$vn)
 case 3:n=b
 if(n.b===200){p=B.aY.pJ(0,A.aEH(A.aCH(n.e).c.a.h(0,"charset")).dD(0,n.w),null)
 o=J.at(p)
