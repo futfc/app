@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "efff5b0b75fcd232ed4b5476394d9615",
+  "assets/AssetManifest.json": "70c949d8a0d8d3808012cc4dc8f603e4",
 "assets/assets/data/clubs.json": "9f176ec1cdb456a2b07d72a595025b02",
 "assets/assets/data/db_12_20.csv": "2e0b0aba8e5604f6d3693a488610749c",
 "assets/assets/data/drafts.json": "ce966fd9d95652988a82430b57f987cd",
@@ -688,7 +688,7 @@ const RESOURCES = {
 "assets/assets/img/clubs/small/club_small_981.png": "7405705916e82205f9c3d5a1f8064788",
 "assets/assets/img/clubs/small/club_small_982.png": "39701f08e560a62488bafb81f8d46618",
 "assets/assets/img/clubs/small/club_small_983.png": "1d144dc2a5bdf0ce59ad17d76c03614d",
-"assets/assets/img/field_squad.png": "4dbca88516392d414d00e00822a086b8",
+"assets/assets/img/field_squad.png": "74f6bf93a4ccd2dcc7311094e1904c7a",
 "assets/assets/img/filters/club.png": "465bb605d214d10643858a56f8db44fd",
 "assets/assets/img/filters/clubs/large/club_large_1.png": "6688198d9f08910499d72c72eb514f37",
 "assets/assets/img/filters/clubs/large/club_large_10.png": "8bd62892094686bec7e0d1f2f5d7ed69",
@@ -2110,7 +2110,7 @@ const RESOURCES = {
 "assets/assets/img/filters/rarity/toty_nominee_big.png": "db370c69f48a8064748fd9cc6d89602a",
 "assets/assets/img/filters/rarity.png": "691ff5ff652a788ce57745d01cb36dbb",
 "assets/assets/img/filters/trading_card_left.png": "5126422fe5d077a3f83891ee6bd5d381",
-"assets/assets/img/guide.png": "c3fb982ebc8b6c6ef284cea988e7452f",
+"assets/assets/img/guide.png": "d1c34d1641103009c6c86d5aa4b3802b",
 "assets/assets/img/leagues/0": "82e3e943e020f174c0ee6aa9097acb4d",
 "assets/assets/img/leagues/1": "16f97ddd3b1e40064676cd799f9af43f",
 "assets/assets/img/leagues/10": "0b2a8bf8abbee3b4be19e30c7a53255c",
@@ -2716,9 +2716,10 @@ const RESOURCES = {
 "assets/assets/img/player_position.jpg": "bf144fa7f3ea384e8e98bf6b8757c847",
 "assets/assets/img/squad_slot_base.png": "2bc84266f765112d3e557d1fb0ba8933",
 "assets/assets/img/tile_bg.png": "1cbd43ee31794d29bc6f07694f8e8449",
+"assets/assets/img/web_app_import_guide.jpg": "631c442ecd1383bd6816e6350a698f57",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "4e2fbed18901e1fc83fdba2d397531bf",
+"assets/NOTICES": "144c8a9d97b3b8600bb39b7105f7fa68",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -2733,9 +2734,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "802783f294cc495223e150573c97dc59",
 "icons/Icon-maskable-192.png": "e5912cdb7b8e42b0ee2360e0a706a470",
 "icons/Icon-maskable-512.png": "802783f294cc495223e150573c97dc59",
-"index.html": "e7b832ceb0550cf03603a738f2d44af9",
-"/": "e7b832ceb0550cf03603a738f2d44af9",
-"main.dart.js": "f2ac450fb0462c4646e12a5548092914",
+"index.html": "2f0eb30dcbba8245fa90657aaacf2035",
+"/": "2f0eb30dcbba8245fa90657aaacf2035",
+"main.dart.js": "7e96a6e80590721abaa1d4338a171eb2",
 "manifest.json": "759db56edda629e965c9b1e9d7cc6b8d",
 "version.json": "d3f8c5aebdce598d2f0e453548c016fb"
 };
