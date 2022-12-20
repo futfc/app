@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "60a6f33400053fdb378fa21b410be7d7",
+  "assets/AssetManifest.json": "efff5b0b75fcd232ed4b5476394d9615",
 "assets/assets/data/clubs.json": "9f176ec1cdb456a2b07d72a595025b02",
-"assets/assets/data/db_12_19.csv": "1ad47cf11aadeb33b817b685f098b629",
+"assets/assets/data/db_12_20.csv": "2e0b0aba8e5604f6d3693a488610749c",
 "assets/assets/data/drafts.json": "ce966fd9d95652988a82430b57f987cd",
 "assets/assets/data/formations.json": "bb58225ce3d09a60dc694cd377b4f894",
 "assets/assets/data/leagues.json": "a03029b72f11df9549bec7366a0db22c",
@@ -2733,9 +2733,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "802783f294cc495223e150573c97dc59",
 "icons/Icon-maskable-192.png": "e5912cdb7b8e42b0ee2360e0a706a470",
 "icons/Icon-maskable-512.png": "802783f294cc495223e150573c97dc59",
-"index.html": "286c5fa9ff1f8bce4ff2ef6cd608b144",
-"/": "286c5fa9ff1f8bce4ff2ef6cd608b144",
-"main.dart.js": "ecf640dfb0d7d93dcf6b2cacb2b8050f",
+"index.html": "e7b832ceb0550cf03603a738f2d44af9",
+"/": "e7b832ceb0550cf03603a738f2d44af9",
+"main.dart.js": "f2ac450fb0462c4646e12a5548092914",
 "manifest.json": "759db56edda629e965c9b1e9d7cc6b8d",
 "version.json": "d3f8c5aebdce598d2f0e453548c016fb"
 };
