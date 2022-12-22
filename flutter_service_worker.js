@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "d0557dfc723299ba145a8f2fa1d2dc89",
 "assets/assets/data/clubs.json": "120b4e24e50d2ba19621874435f44db9",
-"assets/assets/data/db_12_22.csv": "79ae33f8584f542cdbc61bd1f8728d75",
+"assets/assets/data/db_12_22.csv": "1352fb42486ea69ddf5d43ed7dda0134",
 "assets/assets/data/drafts.json": "ce966fd9d95652988a82430b57f987cd",
 "assets/assets/data/formations.json": "bb58225ce3d09a60dc694cd377b4f894",
 "assets/assets/data/leagues.json": "b9598f60ce4382c24567adfa24919254",
@@ -2695,9 +2695,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "802783f294cc495223e150573c97dc59",
 "icons/Icon-maskable-192.png": "e5912cdb7b8e42b0ee2360e0a706a470",
 "icons/Icon-maskable-512.png": "802783f294cc495223e150573c97dc59",
-"index.html": "092487878cd2cb8088e673b1f931ad18",
-"/": "092487878cd2cb8088e673b1f931ad18",
-"main.dart.js": "27edd8a2a1814a512427cf1c1c1ac8de",
+"index.html": "1a5e709f2ce25ae04e8948df4f9e7b05",
+"/": "1a5e709f2ce25ae04e8948df4f9e7b05",
+"main.dart.js": "46d78df8016fde67ac8e7c07ad11745e",
 "manifest.json": "759db56edda629e965c9b1e9d7cc6b8d",
 "version.json": "d3f8c5aebdce598d2f0e453548c016fb"
 };
