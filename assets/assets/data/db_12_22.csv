@@ -799,6 +799,7 @@ id,name,rating,pos,club,league,nation,pac,sho,pas,dri,def,phy,wf,sk,rarity,borde
 240740,Callum Hudson-Odoi,85,LB|LWB,Leverkusen,Bundesliga,England,89,74,82,90,80,73,3,3,97,#fefb00,#1e1c1c,#06e8ff,240740,32,19,14,1,0,0,67349604
 212814,Joao Mario,85,CM,SL Benfica,Liga Portugal,Portugal,81,80,86,87,71,72,4,2,50,#ffffff,#111061,#5f7aff,212814,234,308,38,1,0,0,50544462
 238415,Emmanuel Petit,85,CB|LB|LWB|CDM,ICON,Icons,France,80,73,80,78,86,83,3,2,12,#50442b,#f9f9f9,#9d8957,238415,112658,2118,18,1,0,0,238415
+247057,Noble Okello,85,CDM|CM,Toronto FC,Major League Soccer,Canada,83,76,80,84,82,86,4,1,118,#f6d882,#1e342d,#7b2627,247057,111651,39,70,1,0,0,50578705
 227503,Jacob Bruun Larsen,85,LM|ST|LW,TSG Hoffenheim,Bundesliga,Denmark,91,83,81,86,60,78,4,2,150,#f1e8f2,#251e2b,#973c89,227503,10029,19,13,1,0,0,50559151
 222481,Laurent Blanc,85,CB|CAM,ICON,Icons,France,83,82,75,84,79,78,3,1,12,#50442b,#f9f9f9,#9d8957,222481,112658,2118,18,1,0,0,222481
 225126,Ellyes Skhiri,85,CDM|CM,1. FC Köln,Bundesliga,Tunisia,75,78,77,81,86,81,3,2,130,#ffffff,#620f27,#00d3ba,225126,31,19,145,1,0,0,67333990
@@ -2998,4 +2999,3 @@ id,name,rating,pos,club,league,nation,pac,sho,pas,dri,def,phy,wf,sk,rarity,borde
 186682,Montoro,77,CDM|CM|CAM,R. Oviedo,LaLiga SmartBank,Spain,38,65,72,70,75,68,3,2,0,#2b2217,#c69882,#f8c2aa,186682,110827,54,45,1,0,1,186682
 216258,Ihlas Bebou,77,RM|CF|RW|ST,TSG Hoffenheim,Bundesliga,Togo,89,75,68,79,34,65,3,3,1,#3a2717,#d1aa8f,#a77254,216258,10029,19,144,1,0,1,216258
 247182,Tuta,77,CB,Frankfurt,Bundesliga,Brazil,70,49,65,70,77,76,2,1,0,#2b2217,#c69882,#f8c2aa,247182,1824,19,54,1,0,1,247182
-237965,Yoon Jong Gyu,77,RWB|RB|RM,Korea Republic,Special League,Korea Republic,89,47,66,72,71,71,3,1,128,#eeeee4,#8a1538,#ff004c,237965,974,1990,167,1,0,0,50569613
